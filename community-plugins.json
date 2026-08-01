@@ -43615,5 +43615,12 @@
     "author": "Rox Developers",
     "description": "Write AV signal flow diagrams as text in a code block and see them drawn, with the cable, wireless, equipment and parts schedules beside them. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "love-rox/obsidian-kumihimo"
-  }
+  },
+  {
+    "id": "obsidian-speak-selection",
+    "name": "Speak Selection",
+    "author": "syLionchen",
+    "description": "Right-click selected text in Obsidian to read it aloud via the Web Speech API.",
+    "repo": "syLionchen/obsidian--speak-selection"
+  } 
 ]
